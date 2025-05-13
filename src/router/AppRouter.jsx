@@ -14,6 +14,7 @@ export const AppRouter = () => {
             <Route path="/*" element={<HeroesRoutes />} />
         </Routes>
 
+        
     </>
   )
 }
